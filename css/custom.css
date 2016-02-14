@@ -164,7 +164,18 @@ html, body
     background-size:    cover;
 }
 
-#descri
+#contact-form
+{
+    color:              black;
+}
+
+#contact-header
+{
+    margin-top:         20px;
+    padding-top:        20px;
+    margin-bottom:      10px;
+    border-top:         2px solid white;
+}
 
 
 #footer
