@@ -4,11 +4,10 @@ levallois-osteopathe.fr .
 
 ## TODO en cours
 Daniel :
-- Mettre les vraies infos de contact (adresse, numéro de tel)
-- Ajouter un formulaire de contact par mail
-- Ajouter Google Analytics
-- Faire un point technique sur la carte google (filtre referer)
 - Mettre en ligne sur levallois-osteopathe.fr
+- Configurer le contact par mail
+- Faire un point technique sur la carte google (filtre referer)
+- Ajouter Google Analytics
 - Déclarer dans google business
 - Travailler le référencement
 
@@ -21,6 +20,8 @@ Ziad :
 
 ### 14/02/2016
 - Changer adresse dans la carte Google (29 rue Kléber)
+- Ajouter un formulaire de contact par mail
+- Mettre les vraies infos de contact (adresse, numéro de tel)
 
 ### 11/02/2016
 - Version initiale
