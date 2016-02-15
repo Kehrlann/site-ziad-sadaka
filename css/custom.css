@@ -187,6 +187,11 @@ html, body
     border-top:         2px solid white;
 }
 
+#google-maps
+{
+    height:             650px;
+}
+
 
 #footer
 {
@@ -258,6 +263,11 @@ html, body
     #carte-identite
     {
         margin-left:        0;
+    }
+
+    #google-maps
+    {
+        height:             280px;
     }
 
 }
