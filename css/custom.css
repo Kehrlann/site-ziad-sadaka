@@ -189,7 +189,7 @@ html, body
 
 #google-maps
 {
-    height:             650px;
+    height:             280px;
 }
 
 
@@ -264,10 +264,16 @@ html, body
     {
         margin-left:        0;
     }
+}
+
+/*
+* Petit écran
+*/
+@media screen and (min-width: 48em)
+{
 
     #google-maps
     {
-        height:             280px;
+        height:             650px;
     }
-
 }
