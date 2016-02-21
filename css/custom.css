@@ -14,9 +14,25 @@ html, body
     min-height:         100% !important;
 }
 
+dt
+{
+    font-weight:        bold;
+    margin-bottom:      5px;
+}
+
+dd
+{
+    margin-bottom:      10px;
+}
+
 .l-box
 {
     padding:            1em;
+}
+
+.l-box-big
+{
+    padding:            2em;
 }
 
 .content-wrapper
@@ -59,6 +75,11 @@ html, body
 .text-center
 {
     text-align:         center;
+}
+
+.text-justify
+{
+    text-align:         justify;
 }
 
 
@@ -225,6 +246,11 @@ html, body
     .text-left-or-center
     {
         text-align:         center;
+    }
+
+    .l-box-big
+    {
+        padding:            1em;
     }
 
     #header-title
