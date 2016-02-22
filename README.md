@@ -4,20 +4,19 @@ levallois-osteopathe.fr .
 
 ## TODO en cours
 Daniel :
-- Mettre en ligne sur levallois-osteopathe.fr
-- Configurer le contact par mail
-- Faire un point technique sur la carte google (filtre referer)
-- Ajouter Google Analytics
 - Déclarer dans google business
 - Travailler le référencement
 
-Ziad :
+## Suivi
+### 22/02/2015
+- Ajouter Google Analytics
+- Mettre en ligne sur levallois-osteopathe.fr
 - Mettre du contenu au lieu de "blah blah" ;)
 - Mettre des infos (horaires, tarifs, téléphone, etc)
+- Configurer le contact par mail
+- Faire un point technique sur la carte google (filtre referer)
 
-## Suivi
-
-# 16/02/2016
+### 16/02/2016
 - Corriger le bug des 768px sur Google maps.
 - Mettre des vraies photos
 
