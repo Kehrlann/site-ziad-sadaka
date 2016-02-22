@@ -1,6 +1,6 @@
 # site-ziad
 Le site vitrine pour le cabinet d'ostéopathie de Ziad Sadaka. Déployé sur
-levallois-osteopathe.fr .
+http://www.levallois-osteopathe.fr .
 
 ## TODO en cours
 Daniel :
