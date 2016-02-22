@@ -2,13 +2,10 @@
 Le site vitrine pour le cabinet d'ostéopathie de Ziad Sadaka. Déployé sur
 http://www.levallois-osteopathe.fr .
 
-## TODO en cours
-Daniel :
-- Déclarer dans google business
-- Travailler le référencement
-
 ## Suivi
 ### 22/02/2015
+- Déclarer dans google business
+- Travailler le référencement
 - Ajouter Google Analytics
 - Mettre en ligne sur levallois-osteopathe.fr
 - Mettre du contenu au lieu de "blah blah" ;)
